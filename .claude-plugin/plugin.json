@@ -1,0 +1,24 @@
+{
+  "name": "urantia-papers",
+  "version": "1.0.0",
+  "description": "Search, read, and explore the Urantia Book through the Urantia Papers API. 13 tools for paragraphs, search, entities, and audio — zero setup.",
+  "author": {
+    "name": "Kelson Adams",
+    "url": "https://github.com/kelsonic"
+  },
+  "homepage": "https://urantia.dev/mcp-servers",
+  "repository": "https://github.com/kelsonic/urantia-papers-plugin",
+  "license": "MIT",
+  "keywords": [
+    "urantia",
+    "urantia-book",
+    "urantia-papers",
+    "religion",
+    "spirituality",
+    "bible",
+    "scripture",
+    "mcp",
+    "search",
+    "semantic-search"
+  ]
+}
